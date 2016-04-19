@@ -6,6 +6,7 @@ import android.widget.TextView;
 import patrickadams.testproject.MyActivity;
 import patrickadams.testproject.R;
 
+
 /**
  * Created by Patrick on 4/18/16.
  */
